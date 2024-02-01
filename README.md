@@ -1,1 +1,3 @@
-# Celestial-Veil
+# Celestial Veil
+
+Celestial Veil is currently a statigy exploration game set in space aboard a small electrical power limited ship in deviloment by me. More to some soon...
